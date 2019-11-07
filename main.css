@@ -1,0 +1,47 @@
+body {
+  Background-color: black;
+}
+
+p {
+  color: white;
+  margin: 0.0px 0.0px 12.0px 0.0px;
+  line-height: 14.0px;
+  font: 22.0px Times;
+  -webkit-text-stroke: #000000
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p.small {
+  line-height: 0.8;
+}
+
+p.big {
+  line-height: 3.0;
+}
+
+p.caption {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+li {
+  display: inline;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+}
+
+span.s1 {font-kerning: none}
